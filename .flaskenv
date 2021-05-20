@@ -1,0 +1,2 @@
+FLASK_APP=airPollution
+FLASK_ENV=development
